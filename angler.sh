@@ -14,4 +14,7 @@ git clone https://github.com/amartyag2004/android_kernel_huawei_angler-10 kernel
 
 # Vendor tree
 echo -e "\n================== Cloning Vendor tree for angler ==================\n"
-git clone https://github.com/amartyag2004/android_vendor_huawei-10 vendor/huawei/angler
+git clone https://github.com/amartyag2004/android_vendor_huawei-10 vendor/huawei/
+
+#End
+echo -e "\n============== Thank you for using this, happy building ==============\n"
