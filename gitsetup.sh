@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script to setup server for compiling roms
+# Script to setup git
 
 # Username
 echo -e "\n================== Adding Username ==================\n"
