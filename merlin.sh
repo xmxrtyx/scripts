@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script to clone angler device sources
+# Script to clone merlin device sources
 
 
 # Device tree
