@@ -11,5 +11,12 @@ sudo apt update && sudo apt full-upgrade -y && sudo apt install -y bc build-esse
 echo -e "\n==================        Installing Repo        ==================\n"
 mkdir ~/bin && PATH=~/bin:$PATH && curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo && chmod a+x ~/bin/repo
 
+#Gdrive
+echo -e "\n==================        Installing GDrive       ==================\n"
+wget https://www.dropbox.com/s/w65lffvkkqvvj93/gdrive?dl=1
+mv gdrive?dl=1 gdrive
+chmod +x gdrive
+./gdrive list
+
 #End
 echo -e "\n============== Thank you for using this, happy compiling ==============\n"
