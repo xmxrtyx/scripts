@@ -6,11 +6,7 @@
 
 # Device tree
 echo -e "\n================== Cloning Device tree for angler ==================\n"
-git clone https://github.com/xmxrtyx/android_device_huawei_angler device/huawei/angler
-
-# Common tree
-echo -e "\n================== Cloning Common tree for angler ==================\n"
-git clone https://github.com/xmxrtyx/android_device_huawei_angler-common device/huawei/angler-common
+git clone https://github.com/xmxrtyx/android_device_huawei_angler-10 device/huawei/angler
 
 # Kernel tree
 echo -e "\n================== Cloning Kernel tree for angler ==================\n"
