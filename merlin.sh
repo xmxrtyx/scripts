@@ -17,7 +17,7 @@ git clone https://github.com/xmxrtyx/kernel_motorola_msm8916 kernel/motorola/msm
 
 # Vendor tree
 echo -e "\n================== Cloning Vendor tree for merlin ==================\n"
-git clone https://github.com/xmxrtyx/proprietary_vendor_motorola-Merlin vendor/motorola/
+git clone https://github.com/xmxrtyx/vendor_motorola vendor/motorola/
 
 #End
 echo -e "\n============== Thank you for using this, happy building ==============\n"
