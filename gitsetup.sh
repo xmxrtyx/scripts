@@ -8,7 +8,7 @@ git config --global user.name "xmxrtyx"
 
 #Email
 echo -e "\n==================   Adding Email   ==================\n"
-git config --global user.email "garikapatiamartya@gmail.com"
+git config --global user.email "xmxrtyx@gmail.com"
 
 #Give a Confirmation
 echo -e "\n Added!\n"
