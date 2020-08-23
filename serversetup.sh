@@ -18,5 +18,10 @@ mv gdrive?dl=1 gdrive
 chmod +x gdrive
 ./gdrive list
 
+#CCache
+echo -e "\n==================        Setting up CCACHE       ==================\n"
+export USE_CCACHE=1
+ccache -M 50G
+
 #End
 echo -e "\n============== Thank you for using this, happy compiling ==============\n"
