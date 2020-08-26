@@ -6,15 +6,15 @@
 
 # Device tree
 echo -e "\n================== Cloning Device tree for angler ==================\n"
-git clone https://github.com/xmxrtyx/android_device_huawei_angler-10 device/huawei/angler
+git clone https://github.com/xmxrtyx/device_huawei_angler device/huawei/angler
 
 # Kernel tree
 echo -e "\n================== Cloning Kernel tree for angler ==================\n"
-git clone https://github.com/xmxrtyx/android_kernel_huawei_angler-10 kernel/huawei/angler
+git clone https://github.com/xmxrtyx/kernel_huawei_angler kernel/huawei/angler
 
 # Vendor tree
 echo -e "\n================== Cloning Vendor tree for angler ==================\n"
-git clone https://github.com/xmxrtyx/android_vendor_huawei-10 vendor/huawei/
+git clone https://github.com/xmxrtyx/vendor_huawei vendor/huawei/
 
 #End
 echo -e "\n============== Thank you for using this, happy building ==============\n"
