@@ -9,7 +9,7 @@ echo -e "\n Added your username!\n"
 
 #Email
 echo -e "\n==================   Adding Email   ==================\n"
-git config --global user.email "garikapatiamarty@gmail.com"
+git config --global user.email "garikapatiamartya@gmail.com"
 echo -e "\n Added your email!\n"
 
 #List Settings
