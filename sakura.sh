@@ -17,3 +17,5 @@ export USE_CCACHE=true
 . b*/e*
 lunch lineage_ginkgo-userdebug
 mka bacon -j8 | tee
+cd 
+./gdrive upload out/target/product/ginkgo/Project*
